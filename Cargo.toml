@@ -1,0 +1,9 @@
+[package]
+name = "with-cell"
+version = "0.1.0"
+edition = "2024"
+authors = ["David Hoppenbrouwers <rust+with-cell@demindiro.com>"]
+license = "MIT"
+description = "More convenient Cell for non-Copy types"
+repository = "https://github.com/Demindiro/with-cell-rs"
+documentation = "https://docs.rs/with-cell"
